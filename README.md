@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I’m currently working on [Scena 360](https://scena360.com): an extended reality meetup platform for the post-COVID world
+I’m the Co-Founder of [Scena 360](https://scena360.com). Host immersive meetups on Scena 360 in extended reality.
 
-![scena-demo](https://media.giphy.com/media/WPuQhaN7EUl4KDpuH5/giphy.gif)
+<img src="https://www.app.scena360.com/images/scena-welcome.png?2f66268" width="500" />
 
 How to reach me: [Twitter](https://twitter.com/djoksimo)
 
