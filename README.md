@@ -1,6 +1,6 @@
 ### Hi there, I'm Danilo 👋
 
-I'm a third-year software engineering student and the Co-Founder of [Scena 360](https://links.scena360.com/ZIm0cg). 
+I'm a third-year software engineering student and a Co-Founder of [Scena 360](https://links.scena360.com/ZIm0cg). 
 
 🚀 I'm currently making virtual gatherings feel more like in-person gatherings.
 
